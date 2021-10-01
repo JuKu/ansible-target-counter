@@ -3,6 +3,7 @@ export const environment = {
 
   max_value: 100,
   targets: {
+    '0': '',
     20: 'Net schlecht',
     40: 'Schon ziemlich gut',
     60: 'Sehr ordentlich',
